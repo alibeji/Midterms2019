@@ -1,0 +1,32 @@
+body{
+  font-family: 'Raleway', sans-serif;
+}
+#bg{
+	background-image: linear-gradient(to right top, #ef4573, #ff6360, #ff844f, #ffa644, #ffc845);
+	padding-top: 10vh;
+	padding-bottom: 90vh;
+	border-width: 0.5vw;
+	border-style: solid;
+	border-color: white;
+	}
+#demo{
+	font-family: 'Raleway Thin';
+	font-size: 5vw;
+	color: white;
+	text-align: center;
+	font-weight: 300;
+}
+
+h1{
+	font-size: 7vw;
+	color: white;
+	text-align: center;
+	font-weight: 900;
+}
+img{
+	margin-bottom: -5vh;
+	margin-top: -3vh;
+	/*border-width: 0.5vw;
+	border-style: solid;
+	border-color: white;*/
+}
